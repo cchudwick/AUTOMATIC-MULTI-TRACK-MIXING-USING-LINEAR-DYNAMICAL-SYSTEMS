@@ -1,0 +1,6 @@
+#Ignore media
+*.wav
+*.mp3
+
+#Ignore pdf
+*.pdf
